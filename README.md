@@ -69,7 +69,7 @@ Staged backend build with Swagger docs
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,py,java,nodejs,express,react,mongodb,mysql,fastapi,docker,git,postman,githubactions" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,py,java,nodejs,express,react,mongodb,mysql,fastapi,docker,githubactions,aws" />
 </p>
 
 ---
