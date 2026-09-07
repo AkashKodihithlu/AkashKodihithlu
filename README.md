@@ -17,9 +17,8 @@
 ### 🔭 What I'm doing
 
 - 🔭 Interning at **FlyRank** as a Backend AI Engineer — Node.js/Express APIs with AI integrations
-- 🌱 Deepening backend + AI/ML: LangChain, Gemini API, FastAPI
+- 🌱 Deepening backend + AI/ML: FastAPI
 - 💡 Grinding DSA in C++ for placements
-- ⚡ Fun fact: my `/` key is dead and I remapped Right-Shift+Space to fix it
 
 ---
 
@@ -31,7 +30,7 @@
 
 **🧠 StockSmart**
 Full-stack inventory management with AI-driven insights
-`React` `Node.js` `MongoDB` `Gemini AI`
+`React` `Node.js` `MongoDB`
 [View Repo →](#)
 
 </td>
