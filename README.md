@@ -99,12 +99,7 @@ A staged, production-style Task API built incrementally: in-memory data store, f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashKodihithlu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashKodihithlu&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashKodihithlu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
