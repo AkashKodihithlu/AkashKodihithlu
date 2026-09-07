@@ -23,25 +23,48 @@
 
 ### 🚀 Projects
 
-**🛡️ CodeGuard**
-Plagiarism detection via TF-IDF + AST comparison
-`React` `FastAPI` `Python`
-[View Repo →](https://github.com/AkashKodihithlu/PlagiarismDetector)
+<table width="100%">
+<tr>
+<td width="100%">
 
-**🧠 StockSmart** — 🏆 2nd Place, CSI Project Expo 2025,NMAMIT
-Full-stack inventory management with AI-driven insights
-`React` `Node.js` `MongoDB`
-[View Repo →](https://github.com/CSI-Project-Expo/Team-12)
+**🛡️ CodeGuard**
+<br>Plagiarism detection engine using TF-IDF vectorization and AST comparison to catch code similarity.
+<br>**Stack:** `React` `FastAPI` `Python`
+<br>**[→ View Repo](https://github.com/AkashKodihithlu/PlagiarismDetector)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**🧠 StockSmart** &nbsp;🏆 *2nd Place — [competition name]*
+<br>Full-stack inventory management system with AI-driven stock insights.
+<br>**Stack:** `React` `Node.js` `MongoDB`
+<br>**[→ View Repo](https://github.com/CSI-Project-Expo/Team-12)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 **🏥 MediLink**
-Backend & DB layer for a group healthcare platform
-`Node.js` `Express` `MySQL`
-[View Repo →](https://github.com/AkashKodihithlu/medilink)
+<br>Backend and database architecture for a group healthcare coordination platform.
+<br>**Stack:** `Node.js` `Express` `MySQL`
+<br>**[→ View Repo](https://github.com/AkashKodihithlu/medilink)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
 
 **⚙️ FlyRank Task API**
-Staged backend build with Swagger docs
-`Node.js` `Express` `Swagger`
-[View Repo →](https://github.com/AkashKodihithlu/Flyrank-1)
+<br>Staged backend build with full Swagger documentation.
+<br>**Stack:** `Node.js` `Express` `Swagger`
+<br>**[→ View Repo](https://github.com/AkashKodihithlu/Flyrank-1)**
+
+</td>
+</tr>
+</table>
 
 ---
 
