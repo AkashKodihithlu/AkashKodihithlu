@@ -28,7 +28,7 @@ Plagiarism detection via TF-IDF + AST comparison
 `React` `FastAPI` `Python`
 [View Repo →](https://github.com/AkashKodihithlu/PlagiarismDetector)
 
-**🧠 StockSmart** — 🏆 2nd Place, [competition name]
+**🧠 StockSmart** — 🏆 2nd Place, CSI Project Expo 2025,NMAMIT
 Full-stack inventory management with AI-driven insights
 `React` `Node.js` `MongoDB`
 [View Repo →](https://github.com/CSI-Project-Expo/Team-12)
