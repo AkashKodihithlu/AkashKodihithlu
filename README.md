@@ -24,44 +24,25 @@
 
 ### 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
+**🛡️ CodeGuard**
+Plagiarism detection via TF-IDF + AST comparison
+`React` `FastAPI` `Python`
+[View Repo →](#)
 
 **🧠 StockSmart**
 Full-stack inventory management with AI-driven insights
 `React` `Node.js` `MongoDB`
 [View Repo →](#)
 
-</td>
-<td width="50%">
-
-**🛡️ CodeGuard**
-Plagiarism detection via TF-IDF + AST comparison
-`React` `FastAPI` `Python`
-[View Repo →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **🏥 MediLink**
 Backend & DB layer for a group healthcare platform
 `Node.js` `Express` `MySQL`
 [View Repo →](#)
 
-</td>
-<td width="50%">
-
 **⚙️ FlyRank Task API**
 Staged backend build with Swagger docs
 `Node.js` `Express` `Swagger`
 [View Repo →](#)
-
-</td>
-</tr>
-</table>
 
 ---
 
