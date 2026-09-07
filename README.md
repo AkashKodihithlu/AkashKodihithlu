@@ -69,7 +69,15 @@ Staged backend build with Swagger docs
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,py,java,nodejs,express,react,mongodb,mysql,fastapi,docker,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="48" height="48" />
 </p>
 
 ---
