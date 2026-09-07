@@ -17,7 +17,6 @@
 ### 🔭 What I'm doing
 
 - 🔭 Interning at **FlyRank** as a Backend AI Engineer — Node.js/Express APIs with AI integrations
-- 🌱 Deepening backend + AI/ML: FastAPI
 - 💡 Grinding DSA in C++ for placements
 
 ---
@@ -27,22 +26,22 @@
 **🛡️ CodeGuard**
 Plagiarism detection via TF-IDF + AST comparison
 `React` `FastAPI` `Python`
-[View Repo →](#)
+[View Repo →](https://github.com/AkashKodihithlu/PlagiarismDetector)
 
-**🧠 StockSmart**
+**🧠 StockSmart** — 🏆 2nd Place, [competition name]
 Full-stack inventory management with AI-driven insights
 `React` `Node.js` `MongoDB`
-[View Repo →](#)
+[View Repo →](https://github.com/CSI-Project-Expo/Team-12)
 
 **🏥 MediLink**
 Backend & DB layer for a group healthcare platform
 `Node.js` `Express` `MySQL`
-[View Repo →](#)
+[View Repo →](https://github.com/AkashKodihithlu/medilink)
 
 **⚙️ FlyRank Task API**
 Staged backend build with Swagger docs
 `Node.js` `Express` `Swagger`
-[View Repo →](#)
+[View Repo →](https://github.com/AkashKodihithlu/Flyrank-1)
 
 ---
 
@@ -86,50 +85,8 @@ Staged backend build with Swagger docs
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Internshala-FF7F50?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akash-kumar-953934389/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akash.kodihithlu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=100&section=footer" width="100%"/>
-
-<!--
-NOTE FOR AKASH — before pushing:
-
-1. USERNAME: Confirm "AkashKodihithlu" is your exact GitHub username — every widget URL depends on it.
-
-2. LINKS: Replace all (#) with real repo/LinkedIn/Internshala/email URLs.
-
-3. SNAKE ANIMATION — this one needs a one-time setup, it won't work just by pasting:
-   a. In your profile repo (the one named exactly your username), go to Settings → Actions → General → Workflow permissions → enable "Read and write permissions".
-   b. Create a new file at .github/workflows/snake.yml with this content:
-
-      name: generate animated snake
-      on:
-        schedule:
-          - cron: "0 */6 * * *"
-        workflow_dispatch: {}
-        push:
-          branches: [ main ]
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: Platane/snk@v3
-              with:
-                github_user_name: AkashKodihithlu
-                outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   c. Push it, then manually trigger the workflow once (Actions tab → generate animated snake → Run workflow). It creates an "output" branch with the SVG — that's what the image tag above points to.
-   d. Until this runs once, the snake image will show broken. It's not a mistake in this file, it just needs that first run.
-
-4. THEME: All stats widgets use "tokyonight" — swap theme= in each URL to "radical", "merko", "dark", etc. for a different palette. Keep it consistent across all three stat widgets.
--->
