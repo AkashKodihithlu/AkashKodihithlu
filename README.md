@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akash+%F0%9F%91%8B;Backend+%2B+AI+Engineer+in+the+making;B.Tech+CSE+%40+NMAMIT+%7C+2028;Currently+interning+%40+FlyRank" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7C3AED&height=200&section=header&text=Akash%20Kodihithlu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%2B%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NMAMIT+%7C+2028;Interning+%40+FlyRank+as+Backend+AI+Engineer;Grinding+DSA+in+C%2B%2B+every+5+AM;Building+StockSmart+%2C+CodeGuard+%2C+MediLink" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AkashKodihithlu&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B%20Grinding-2E9EF7?style=flat&logo=leetcode&logoColor=white" alt="dsa" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI-2E9EF7?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B%20Grinding-2E9EF7?style=flat&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI-2E9EF7?style=flat" />
 </p>
+
+</div>
 
 ---
 
@@ -16,7 +18,7 @@
 
 - 🔭 Interning at **FlyRank** as a Backend AI Engineer — Node.js/Express APIs with AI integrations
 - 🌱 Deepening backend + AI/ML: LangChain, Gemini API, FastAPI
-- 💡 Grinding DSA in C++ for placements (yes, 5 AM starts)
+- 💡 Grinding DSA in C++ for placements
 - ⚡ Fun fact: my `/` key is dead and I remapped Right-Shift+Space to fix it
 
 ---
@@ -85,6 +87,14 @@ Staged backend build with Swagger docs
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkashKodihithlu/AkashKodihithlu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 📫 Reach Me
 
 <p align="center">
@@ -93,11 +103,45 @@ Staged backend build with Swagger docs
   <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=100&section=footer" width="100%"/>
+
 <!--
 NOTE FOR AKASH — before pushing:
-1. Replace every AkashKodihithlu instance with your EXACT GitHub username if different (stats widgets need the real username to work).
-2. Replace all (#) with real repo/LinkedIn/Internshala/email links.
-3. github-readme-stats and streak-stats are hosted on Vercel/Heroku by third parties — if they don't load, it's usually a temporary outage on their end, not your file. They still work, just occasionally slow to wake up.
-4. This file goes in a repo named exactly your GitHub username, as README.md.
-5. Theme used: "tokyonight" — swap to "dark", "radical", "merko" etc. if you want a different look (just edit theme= in each URL).
+
+1. USERNAME: Confirm "AkashKodihithlu" is your exact GitHub username — every widget URL depends on it.
+
+2. LINKS: Replace all (#) with real repo/LinkedIn/Internshala/email URLs.
+
+3. SNAKE ANIMATION — this one needs a one-time setup, it won't work just by pasting:
+   a. In your profile repo (the one named exactly your username), go to Settings → Actions → General → Workflow permissions → enable "Read and write permissions".
+   b. Create a new file at .github/workflows/snake.yml with this content:
+
+      name: generate animated snake
+      on:
+        schedule:
+          - cron: "0 */6 * * *"
+        workflow_dispatch: {}
+        push:
+          branches: [ main ]
+      jobs:
+        generate:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: Platane/snk@v3
+              with:
+                github_user_name: AkashKodihithlu
+                outputs: |
+                  dist/github-contribution-grid-snake.svg
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            - uses: crazy-max/ghaction-github-pages@v4
+              with:
+                target_branch: output
+                build_dir: dist
+              env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   c. Push it, then manually trigger the workflow once (Actions tab → generate animated snake → Run workflow). It creates an "output" branch with the SVG — that's what the image tag above points to.
+   d. Until this runs once, the snake image will show broken. It's not a mistake in this file, it just needs that first run.
+
+4. THEME: All stats widgets use "tokyonight" — swap theme= in each URL to "radical", "merko", "dark", etc. for a different palette. Keep it consistent across all three stat widgets.
 -->
