@@ -21,46 +21,58 @@
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="100%">
 
-**🛡️ CodeGuard**
-<br>Plagiarism detection engine using TF-IDF vectorization and AST comparison to catch code similarity.
-<br>**Stack:** `React` `FastAPI` `Python`
-<br>**[→ View Repo](https://github.com/AkashKodihithlu/PlagiarismDetector)**
+### 🛡️ CodeGuard — AI-Powered Plagiarism Detection Engine
+
+Detects source-code similarity using **TF-IDF vectorization** and **Abstract Syntax Tree (AST)** comparison — catching structural plagiarism that simple text-diffing misses. Built with a FastAPI backend for fast similarity scoring and a React dashboard for results visualization.
+
+**Tech:** `React` `FastAPI` `Python` `TF-IDF` `AST Parsing` `NLP` `Scikit-learn`
+
+**[→ View Repository](https://github.com/AkashKodihithlu/PlagiarismDetector)**
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**🧠 StockSmart** &nbsp;🏆 *2nd Place — [competition name]*
-<br>Full-stack inventory management system with AI-driven stock insights.
-<br>**Stack:** `React` `Node.js` `MongoDB`
-<br>**[→ View Repo](https://github.com/CSI-Project-Expo/Team-12)**
+### 🧠 StockSmart — AI-Driven Inventory Management System &nbsp; 🏆 *2nd Place, [competition name]*
+
+Full-stack inventory management platform with **Gemini AI–powered insights** for stock forecasting and restocking decisions. Built end-to-end: REST API, MongoDB data layer, and a responsive React frontend.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `Gemini AI` `REST API`
+
+**[→ View Repository](https://github.com/CSI-Project-Expo/Team-12)**
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**🏥 MediLink**
-<br>Backend and database architecture for a group healthcare coordination platform.
-<br>**Stack:** `Node.js` `Express` `MySQL`
-<br>**[→ View Repo](https://github.com/AkashKodihithlu/medilink)**
+### 🏥 MediLink — Healthcare Coordination Platform (Backend)
+
+Designed and built the backend and relational database architecture for a group healthcare coordination platform, handling structured data flows between patients and providers.
+
+**Tech:** `Node.js` `Express` `MySQL` `REST API` `Relational DB Design`
+
+**[→ View Repository](https://github.com/AkashKodihithlu/medilink)**
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-**⚙️ FlyRank Task API**
-<br>Staged backend build with full Swagger documentation.
-<br>**Stack:** `Node.js` `Express` `Swagger`
-<br>**[→ View Repo](https://github.com/AkashKodihithlu/Flyrank-1)**
+### ⚙️ FlyRank Task API — Production-Style Backend Service
+
+A staged, production-style Task API built incrementally: in-memory data store, full CRUD routes, and complete **Swagger/OpenAPI documentation** — built during my Backend AI Engineer internship at FlyRank.
+
+**Tech:** `Node.js` `Express` `Swagger` `OpenAPI` `REST API Design`
+
+**[→ View Repository](https://github.com/AkashKodihithlu/Flyrank-1)**
 
 </td>
 </tr>
